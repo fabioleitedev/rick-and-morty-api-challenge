@@ -45,6 +45,6 @@ I left a `deployment.yaml` as an example to deploy it in K8S.
 * Send a `GET` request to `localhost:5000/v1/characters/episodes?name=Rick`
 
 ## My Considerations
-. I decided to use `Redis` to cache results in memory, because it's a kind of data that don't change very often. In a microservices approach, would became a cache microservice.
-. I decided to remove the character search from the list of other characters, avoind data replicated.
-. I created a ParseService to handle the transformation of the data comming from the external API to the internal model of the app. In a more complex architecture, we could use some ETL technology or a microservice with this reponsability.
+* I decided to use `Redis` to cache results in memory, because it's a kind of data that don't change very often. In a microservices approach, would became a cache microservice.
+* I decided to remove the character search from the list of other characters, avoind data replicated.
+* I created a ParseService to handle the transformation of the data comming from the external API to the internal model of the app. In a more complex architecture, we could use some ETL technology or a microservice with this reponsability.
