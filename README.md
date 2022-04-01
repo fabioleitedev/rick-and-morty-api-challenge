@@ -4,8 +4,6 @@ Created by Fábio Leite
 fabioleitedev@gmail.com
 [linkedin.com/fabioleitedev](https://www.linkedin.com/in/fabioleitedev)
 
-####👍🏻&nbsp;&nbsp;Please see my consideration at the end of this page.
-
 ## Pre-requisites
 
 * Docker ([https://www.docker.com/](https://www.docker.com/))
