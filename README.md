@@ -12,21 +12,21 @@ fabioleitedev@gmail.com
 
 ## Get started (100% Containerized)
 
-📂 &nbsp;&nbsp;Go to the source folder `/src`
-⚙️ &nbsp;&nbsp;Create the `.env` file following the `.env.sample` file.
-📂 &nbsp;&nbsp;Go to the root folder.
-🏃🏻 &nbsp;&nbsp;Run `./start.sh`
-🚀 &nbsp;&nbsp;Start using the API
+* 📂 &nbsp;&nbsp;Go to the source folder `/src`
+* ⚙️ &nbsp;&nbsp;Create the `.env` file following the `.env.sample` file.
+* 📂 &nbsp;&nbsp;Go to the root folder.
+* 🏃🏻 &nbsp;&nbsp;Run `./start.sh`
+* 🚀 &nbsp;&nbsp;Start using the API
 
 ## Get started (Local)
 
-📂 &nbsp;&nbsp;Go to the source folder `/src`
-⚙️ &nbsp;&nbsp;Create the `.env` file following the `.env.sample` file.
-📂 &nbsp;&nbsp;Go to the root folder.
-🏃🏻 &nbsp;&nbsp;Run `./start-local.sh`
-📂 &nbsp;&nbsp;Go to the source folder `/src`
-🏃🏻 &nbsp;&nbsp;To run tests, type `npm run test` or `yarn test`
-🚀 &nbsp;&nbsp;Start using the API
+* 📂 &nbsp;&nbsp;Go to the source folder `/src`
+* ⚙️ &nbsp;&nbsp;Create the `.env` file following the `.env.sample` file.
+* 📂 &nbsp;&nbsp;Go to the root folder.
+* 🏃🏻 &nbsp;&nbsp;Run `./start-local.sh`
+* 📂 &nbsp;&nbsp;Go to the source folder `/src`
+* 🏃🏻 &nbsp;&nbsp;To run tests, type `npm run test` or `yarn test`
+* 🚀 &nbsp;&nbsp;Start using the API
 
 ## Kubernetes
 
